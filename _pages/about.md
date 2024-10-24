@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I've graduated from [School of Cyber Science and Engineering](https://cse.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/) in 2024. And I plan to pursue a master's degree in the United States.
+I've graduated from [School of Cyber Science and Engineering](https://cse.whu.edu.cn/),[Wuhan University](https://www.whu.edu.cn/) in 2024. I'm currently seeking a master's opportunity in the United States.
 
 Connect with me
 ======
