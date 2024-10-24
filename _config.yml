@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "cat.png"
+  name             : "Shuwen Yan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI Engineer | Software Engineer | C/C++/Python/Java coder"
+  location         : "Wuhan, Hubei Province"
+  employer         : "Wuhan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "superwen811@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
