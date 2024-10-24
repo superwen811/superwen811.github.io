@@ -11,4 +11,5 @@ I've graduated from [School of Cyber Science and Engineering](https://cse.whu.ed
 
 Connect with me
 ======
-If you have any questions, feel free to contact me!
+I share the source code of some of my projects. If you have any questions, feel free to contact me!
+[Email](mailto:superwen811@gmail.com) / [Github](https://github.com/superwen811)
